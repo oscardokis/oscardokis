@@ -1,6 +1,5 @@
-### Hi there 👋
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2BFAFF&random=false&width=500&height=70&lines=Hola+amigos+o+wait+Hi+there%F0%9F%91%8B%2C;+I'm+Oscar+Gonzalez%E2%9C%A8%F0%9F%A4%93" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&color=2BFAFF&background=0000009F&center=true&vCenter=true&random=false&width=600&height=70&lines=Hola+amigos+o+wait+Hi+there%F0%9F%91%8B%2C;+I'm+Oscar+Gonzalez%E2%9C%A8%F0%9F%A4%93" />
 </h1>
 <!--
 **oscardokis/oscardokis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
