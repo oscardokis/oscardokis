@@ -3,11 +3,7 @@
 </h1>
 <div align="center">
 <h2 align="center">
-<<<<<<< HEAD
-    📫 How to reach me:
-=======
-    Digital Platforms for Socializing
->>>>>>> cdfe6d7d17102177bf9910d7b133abebdc1f802c
+    📫 Digital platforms for socializing
 </h2>
 </div>
 <div align="center"> 
@@ -40,9 +36,9 @@
     <br>
 </div>
 <hr/>
+  <br>
 <div align="center">
   <h2>Each Grain Of Sand</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/oscardokis/oscardokis/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
