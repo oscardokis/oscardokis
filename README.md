@@ -7,10 +7,10 @@
 </h2>
 </div>
 <div align="center"> 
-  <a href="https://www.facebook.com/DanielGonzalez0324/">
+  <a href="https://www.facebook.com/oscardokis1/">
     <img src="https://img.shields.io/badge/Facebook-facebook?style=for-the-badge&logo=facebook&logoColor=%230866FF&labelColor=white&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2FDanielGonzalez0324%2F" />
   </a>
-  <a href="https://www.instagram.com/odanielggonzalez/?hl=en">
+  <a href="https://www.instagram.com/oscardokis1/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-instagram?style=for-the-badge&logo=instagram&labelColor=white&color=E4405F&link=https%3A%2F%2Fwww.facebook.com%2FDanielGonzalez0324%2F" />
   </a>
     <a href="https://www.linkedin.com/in/oscar-gonzalez-0a5906121/">
