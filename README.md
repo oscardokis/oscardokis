@@ -17,18 +17,19 @@
     <img src="https://img.shields.io/badge/Linkedin-linkedin?style=for-the-badge&logo=linkedin&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.facebook.com%2FDanielGonzalez0324%2F" />
   </a>
 </div>
+<br/>
 <div align="center">
-    <p align="center">
+    <h3 align="center">
     🔭 I’m currently working on Fameus Dave's and Projects of React
-    <p>
-    <p align="center">
+    <h3>
+    <h3 align="center">
     🌱 I’m currently learning NodeJS, MongoDB
-    <p>    
-    <p align="center">
+    <h3>    
+    <h3 align="center">
     🤔 I’m trying to be a better version of me every day❤️‍🔥
-    <p>
+    <h3>
 </div>
-
+<br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
