@@ -3,7 +3,11 @@
 </h1>
 <div align="center">
 <h2 align="center">
+<<<<<<< HEAD
     📫 How to reach me:
+=======
+    Digital Platforms for Socializing
+>>>>>>> cdfe6d7d17102177bf9910d7b133abebdc1f802c
 </h2>
 </div>
 <div align="center"> 
