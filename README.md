@@ -23,7 +23,7 @@
     🔭 I’m currently working on Fameus Dave's and Projects of React
     <h3>
     <h3 align="center">
-    🌱 I’m currently learning NodeJS, MongoDB
+    🌱 I’m currently learning TypeScript
     <h3>    
     <h3 align="center">
     🤔 I’m trying to be a better version of me every day❤️‍🔥
